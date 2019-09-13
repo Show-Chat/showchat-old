@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.css">
 About content goes here.
 
 * A list item
@@ -18,3 +18,5 @@ About content goes here.
     </button>
 </div>
 <!-- END Bootstrap-Cookie-Alert -->
+
+<script src="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.js"></script>
