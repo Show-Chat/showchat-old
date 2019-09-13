@@ -3,8 +3,8 @@ title: ShowChat
 email: showchat.ro@gmail.com
 description: >
   A guide to getting started with Jekyll.
-baseurl: "/showchat"
-url: "https://show-chat.github.io"
+baseurl: "/"
+url: "https://showchat.tk"
 twitter_username: showchat.ro
 github_username:  show-chat
 # Build Settings
