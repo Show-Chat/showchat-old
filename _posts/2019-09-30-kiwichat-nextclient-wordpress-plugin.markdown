@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Proiecte ShowChat!"
-date:   2019-09-30 00:10:45
+title:  "KiwiChat NextClient WordPress Plugin"
+date:   2019-09-30 00:10:46
 categories: proiecte kiwichat
 ---
 <h3>KiwiChat NextClient WordPress Plugin</h3>
