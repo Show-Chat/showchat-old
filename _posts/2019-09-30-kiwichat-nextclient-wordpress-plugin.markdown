@@ -48,4 +48,4 @@ Instantly your users will be able to stay connected via IRC.
 ![An image](https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-1.png) <!-- .element height="50%" width="50%" -->
 
 
-![KiwiChat Connected In Chat](https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-4.png height="50%" width="50%" "KiwiChat Connected In Chat")
+![KiwiChat Connected In Chat](https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-4.png height="80%" width="80%")
