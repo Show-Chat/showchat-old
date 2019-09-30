@@ -36,18 +36,19 @@ a:hover {
 	color: $link-hover-color;
 	text-decoration: underline;
 }
+/* Header 15px */
 header {
 	background: $header;
-	padding: 0px 15px;
+	padding: 0px 20px;
 	text-align: center;
-	margin: 15px 0 0;
-	height: 15vh;
+	margin: 20px 0 0;
+	height: 20vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
 main {
-	padding: 0 15px;
+	padding: 0 20px;
 	max-width: $content-width;
 	margin: 0 auto;
 }
