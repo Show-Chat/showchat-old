@@ -41,3 +41,6 @@ Instantly your users will be able to stay connected via IRC.
 ![Capture KiwiChat Online Chat](https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-3.png "Capture KiwiChat Online Chat")
 
 ![KiwiChat Connected In Chat](https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-4.png "KiwiChat Connected In Chat")
+
+
+<img src="https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-1.png" width="40%">
