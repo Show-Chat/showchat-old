@@ -4,12 +4,8 @@ title:  "KiwiChat NextClient WordPress Plugin"
 date:   2019-09-30 00:10:46
 categories: proiecte kiwichat
 ---
-<h3>KiwiChat NextClient WordPress Plugin</h3>
-<p>Try the new IRC KiwiChat WordPress plugin that works! based on kiwiirc nexclient, with 6 new themes</p>
-<p>KiwiChat is an online chat client, your IRC client based on kiwiirc Add your networks. Join your channels.</p>
-<h2>Description</h2>
 
-### Welcome to GitHub KiwiChat Page
+### KiwiChat NextClient WordPress Plugin
 
 Try the new IRC KiwiChat WordPress plugin that works! based on kiwiirc nexclient, with 6 new themes
 
@@ -34,18 +30,11 @@ Instantly your users will be able to stay connected via IRC.
 
 ## Screenshots
 
-![Plugin configuration](https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-1.png "Plugin configuration options page")
-
-![Capture KiwiChat Home Screen](https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-2.png "Capture KiwiChat Home Screen")
-
-![Capture KiwiChat Online Chat](https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-3.png "Capture KiwiChat Online Chat")
-
-![KiwiChat Connected In Chat](https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-4.png "KiwiChat Connected In Chat")
-
-
-<img src="https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-1.png" width="40%">
-
-![An image](https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-1.png) <!-- .element height="50%" width="50%" -->
-
-
 <img src="https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-1.png" alt="Plugin configuration" align="right" height="100%" width="100%">
+
+<img src="https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-2.png" alt="Capture KiwiChat Home Screen" align="right" height="100%" width="100%">
+
+
+<img src="https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-3.png" alt="Capture KiwiChat Online Chat" align="right" height="100%" width="100%">
+
+<img src="https://raw.githubusercontent.com/KiwiChat/kiwichat/master/assets/screenshot-4.png" alt="KiwiChat Connected In Chat" align="right" height="100%" width="100%">
