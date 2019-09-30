@@ -3,6 +3,9 @@ layout: default
 ---
 
 <h2>Proiecte</h2>
+
+<img src="assets/img/proiecte.jpg" class="proiecte-post" alt="Feature-img" align="right" width="100%"> 
+
 {% for post in site.posts %}
 		<time>{{ post.date | date: "%b %-d, %Y" }}</time>
 		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
