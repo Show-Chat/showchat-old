@@ -2,8 +2,11 @@
 layout: post
 title:  "Proiecte ShowChat!"
 date:   2019-09-30 00:10:45
-categories: proiecte showchat
+categories: proiecte kiwichat
 ---
+<h3>KiwiChat NextClient WordPress Plugin</h3>
+<p>Try the new IRC KiwiChat WordPress plugin that works! based on kiwiirc nexclient, with 6 new themes</p>
+<p>KiwiChat is an online chat client, your IRC client based on kiwiirc Add your networks. Join your channels.</p>
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
