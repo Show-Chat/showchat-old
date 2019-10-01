@@ -32,20 +32,7 @@ padding: 8px;
 background-image: none;
 }
 }
-input[type='button'],
-input[type='submit'],
-input[type='reset'],
-button,
-.button {
-display: inline-block;
-margin: 0;
-padding: 15px 18px;
-font-size: 18px;
-font-weight: 400;
-border: 0;
-line-height: 1;
-cursor: pointer;
-}
+
 input[type='radio'],
 input[type='checkbox'] {
 border: 0;
