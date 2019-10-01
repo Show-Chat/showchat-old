@@ -39,3 +39,6 @@ kramdown:
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
+    
+# Build settings
+theme: showchat
