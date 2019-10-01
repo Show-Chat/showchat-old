@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Comunitatea ShowChat Romania"
+title:  "RomaniaChat WordPress Plugin"
 date:   2019-09-12 00:10:45
 categories: blog update
 ---
