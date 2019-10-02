@@ -17,4 +17,4 @@
 <p>Totuși, multe servicii de găzduire de pe web colectează niște date analitice anonime. Utilizăm pachete de servicii analitice oferite de Google (Google Analytics, Google Adsense, Google Adwords și Google Tag Manager). Această politica de confidențialitate a serviciilor Google, o puteți [găsi aici.](https://policies.google.com/privacy) </p>
 
 
-<a href="#-">`^`</a> - (click to go to first anchor of this comment)
+<a href="https://showchat.tk">ShowChat</a> - (click to go to first anchor of this comment)
