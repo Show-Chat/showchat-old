@@ -13,5 +13,8 @@
 
 <h3>Politica de confidențialitate Analitice</h3>
 
-<p>În mod implicit, <p>[ShowChat.TK]<a href="https://showchat.tk"</a></p> nu colectează date analitice.</p>
+<p>În mod implicit, [[ShowChat.TK]](https://showchat.tk) nu colectează date analitice.</p>
 <p>Totuși, multe servicii de găzduire de pe web colectează niște date analitice anonime. Utilizăm pachete de servicii analitice oferite de Google (Google Analytics, Google Adsense, Google Adwords și Google Tag Manager). Această politica de confidențialitate a serviciilor Google, o puteți [găsi aici.](https://policies.google.com/privacy) </p>
+
+
+<a href="#-">`^`</a> - (click to go to first anchor of this comment)
