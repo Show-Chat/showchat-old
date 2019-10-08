@@ -4,4 +4,4 @@ title: Statistici
 permalink: /statistici/
 ---
 
-{% include showchat.html %}
+{% include statistici.html %}
