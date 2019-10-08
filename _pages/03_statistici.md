@@ -4,4 +4,23 @@ title: Statistici
 permalink: /statistici/
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" src="https://kiwiirc.com/nextclient/?theme=osprey#irc://irc.romaniachat.eu/#Romania,#RadioClick?&nick=KiwiChat??"></iframe>
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<style>
+*{margin:0;padding:0}
+html, body {height:100%;width:100%;overflow:hidden}
+table {height:100%;width:100%;table-layout:static;border-collapse:collapse}
+iframe {height:100%;width:100%}
+
+.header {border-bottom:1px solid #000}
+.content {height:100%}
+</style>
+</head>
+<body>
+<table>
+    <tr><td class="content">
+        <iframe src="http://statistici.romaniachat.eu/romania.html" frameborder="0"></iframe></td></tr>
+</table>
+</body>
+</html>
