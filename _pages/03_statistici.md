@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Statistici
-permalink: /statistici/
+title: Chat
+permalink: /chat/
 ---
 
 {% include statistici.html %}
