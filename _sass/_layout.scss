@@ -159,3 +159,48 @@ elemento {
     margin-right: auto;
     margin-left: auto;
 }
+
+::after, ::before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+elemento {
+    border-top: 1px solid #FFF;
+    border-bottom: 2px solid #FFF;
+}
+#get_quote.green {
+    background: #d80669;
+    padding: 30px 0;
+    color: #fff;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+#get_quote {
+    background: #663366;
+    padding: 30px 0;
+    color: #fff;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body {
+    font-size: 14px;
+    line-height: 18px;
+    font-family: 'Roboto', Arial, sans-serif;
+    color: #565a5c;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+html {
+    font-size: 10px;
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+}
