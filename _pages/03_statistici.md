@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chat
-permalink: /chat/
+permalink: /chat
 ---
 
-{% include statistici.html %}
+{% include chat.html %}
