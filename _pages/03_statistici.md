@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chat
+title: WebChat #Romania #RadioClick irc.RomaniaChat.eu
 permalink: /chat
 ---
 
