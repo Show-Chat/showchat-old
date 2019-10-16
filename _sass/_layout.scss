@@ -122,3 +122,12 @@ footer {
 	justify-content: center;
 	align-items: center;
 }
+.bordered-chat {
+    padding: 2px;
+    border: 2px solid #F9F9F9;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.35);
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    background: #FFF;
+}
