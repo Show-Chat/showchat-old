@@ -6,9 +6,25 @@
 				<li><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
 				<li><a href="{{ "/chat" | prepend: site.baseurl }}">Chat</a></li>
 				<li><a href="{{ "/proiecte" | prepend: site.baseurl }}">Proiecte</a></li>
-			<audio align="center" id="stream" controls="" preload="none" autoplay="none" style="width: 300px;">
-<source src="http://live.radioclick.ro:8008/;" type="audio/mpeg">
-				</audio>
+			<!-- RadioClick -->
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'http://live.radioclick.ro:8008/;',
+'codec':'mp3',
+'volume':100,
+'autoplay':false,
+'forceHTML5':true,
+'jsevents':true,
+'buffering':0,
+'title':'RadioClick',
+'wmode':'transparent',
+'skin':'radiovoz',
+'width':220,
+'height':69
+});
+</script>
+<!-- RadioClick-->
 	</ul>			
 		</nav>
 	</div>
